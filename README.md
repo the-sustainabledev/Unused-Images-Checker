@@ -22,10 +22,6 @@ If there are unused images within the media library, they will appear on this pa
 * You can delete a single image by clicking the *Delete* button for that image.
 * You can bulk delete by using the built in Bulk Actions by checking the box next to the images, then choosing *Delete* from the *Bulk Actions* dropdown, then clicking *Apply*.
 
-### Dependencies ###
-
-There are no code dependencies to install for this plugin.
-
 ## Contributions ##
 
 To suggest a change or an addition to the code, please create a Pull Request so the code can be reviewed before it is merged into the main branch.
